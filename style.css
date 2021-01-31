@@ -1,0 +1,41 @@
+
+body header {
+    background-color:#FA441E;
+    margin: 0;
+
+}
+
+body header h1 {
+    color: white;
+}
+
+body header nav ul li {
+    text-decoration: none;
+    display:inline-block;
+    font-size: 30px;
+
+}
+
+body header nav ul li a {
+    text-decoration: none;
+    margin-right: 60px;
+
+}
+
+#firstLink{
+    margin-left: 1000px;
+}
+
+#secondImage{
+    float:right;
+
+}
+
+.notes {
+    background-color: #85CBFA;
+    color:#FFAB87;
+    font-size: 30px;
+    margin: 0;
+}
+
+
